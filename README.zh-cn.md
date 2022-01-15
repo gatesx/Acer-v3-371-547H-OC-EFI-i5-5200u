@@ -21,18 +21,18 @@ USB 3.0 可用（USB2.0也可用）<br>
 网卡 MacOS12下可用，隔空传送，接力，共享剪贴板可用。（随航没有Ipad无法测试） 隔空传送速度20m/s左右。<br>
 电池 循环次数，插电状态，电量均可用（插电功率检测可能存在问题，没啥影响）<br>
 摄像头 通过Facetime测试可用<br>
-附：Fn键操作可用
+附：Fn键操作可用。
 ### 未驱动硬件
 读卡器待测试 （暂时没需求，没折腾，速度估计也不咋滴）<br>
 休眠存在问题（屏幕保护程序可用，我放了3h）
 
 ## 注意事项
-这些解决方法都只适用于一模一样的机型
+这些解决方法都只适用于一模一样的机型。
 ### 安装前注意事项
-1.更新主板Bios<br>
+1.更新主板Bios。<br>
 https://www.acer.com.cn/support.html?type=1 <br>
 下载最新版Bios并更新。<br>
-2.修改主板设置<br>
+2.修改主板设置。<br>
 Boot-Boot Mode 改为 `UEFI`
 Boot-Secure Boot 改为 `Diskabled` （如果无法修改请先设置Bios密码）
 Main-F12 Boot menu 推荐改为`Enabled`，便于修改引导项。
@@ -41,7 +41,7 @@ Main-F12 Boot menu 推荐改为`Enabled`，便于修改引导项。
 https://blog.gatesx.cn/oc-ps2.html
 ### 跑完代码后黑屏
 此时其实MacOS已经启动了，你需要闭合屏幕再打开（不要闭合太久不然睡眠了），如果背光暗着就点下键盘。<br>
-解决方法我已经找到了（歪打正着），就是开启hidpi和注入eeid（我开启外置显示器时按错了结果解决了这个问题）<br>
+解决方法我已经找到了（歪打正着），就是开启hidpi和注入eeid（我开启外置显示器时按错了结果解决了这个问题）。<br>
 可以前往https://blog.gatesx.cn/macos-hidpi.html 了解Hidpi和注入EEID开启hidpi的方法。
 ### 进入系统提示异常关机
 
