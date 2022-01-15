@@ -29,7 +29,8 @@ USB 3.0 可用（USB2.0也可用）<br>
 这些解决方法都只适用于一模一样的机型
 ### 安装前注意事项
 1.更新主板Bios<br>
-(https://www.acer.com.cn/support.html?type=1)[https://www.acer.com.cn/support.html?type=1]下载最新版Bios并更新。<br>
+https://www.acer.com.cn/support.html?type=1 <br>
+下载最新版Bios并更新。<br>
 2.修改主板设置<br>
 ...等待补充
 ### 引导OC时页面键鼠不可用
