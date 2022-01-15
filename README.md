@@ -1,6 +1,6 @@
 # Acer-v3-371-547H
-English documents translated by Apple Translate.<br>
-English | [简体中文](./README-zh_cn.md)
+English | [简体中文](./README-zh_cn.md)<br>
+English documents translated by Apple Translate.
 ## Hardware configuration
 CPU: Intel I5 5200U 2.2Ghz 2-core<br>
 GPU: Intel HD Graphics 5500 Core Graphics<br>
@@ -27,7 +27,8 @@ There is something wrong with hibernation (screen saver is available, I put it f
 These solutions are only suitable for identical models.
 ### Pre-installation considerations
 1. Update the logic board Bios<br>
-(https://www.acer.com/ac/en/US/content/support-product/5487?b=1)Download the latest version of Bios and update it.<br>
+https://www.acer.com/ac/en/US/content/support-product/5487?b=1 <br>
+Download the latest version of Bios and update it.<br>
 2. Modify logic board settings<br>
 ... Waiting for a supplement
 ### Page key mouse is not available when booting OC
