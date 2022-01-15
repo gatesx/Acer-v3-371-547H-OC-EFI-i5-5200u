@@ -38,6 +38,7 @@ Main-F12 Boot menu to `Enabled`
 Detailed methods can be found on my blog.There are no advertisements on blogs at present.<br>
 https://blog.gatesx.cn/oc-ps2.html
 ### Black screen after running the code
-At this time, MacOS has actually started. You need to close
-![Wechat](https://user-images.githubusercontent.com/84220224/149635235-3f295841-d2cf-4579-b2a7-00b5345ff77e.jpg)
-![Alipay](https://user-images.githubusercontent.com/84220224/149635237-1d548a3f-12c8-4c4b-81a8-08b455b9801f.jpg)
+At this time, MacOS has actually started. You need to close<br>
+---
+![Wechat](https://user-images.githubusercontent.com/84220224/149635235-3f295841-d2cf-4579-b2a7-00b5345ff77e.jpg){:height="50%" width="50%"}
+![Alipay](https://user-images.githubusercontent.com/84220224/149635237-1d548a3f-12c8-4c4b-81a8-08b455b9801f.jpg){:height="50%" width="50%"}
