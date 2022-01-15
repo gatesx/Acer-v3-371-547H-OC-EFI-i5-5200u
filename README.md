@@ -1,5 +1,5 @@
 # Acer-v3-371-547H
-English | [简体中文](./README-zh_cn.md)<br>
+English | [简体中文](./README.zh-cn.md)<br>
 English documents translated by Apple Translate.
 ## Hardware configuration
 CPU: Intel I5 5200U 2.2Ghz 2-core<br>

@@ -1,4 +1,6 @@
 # Acer-v3-371-547H
+简体中文 | [English](./README.md)<br>
+英语文档使用Apple translate 翻译而成。
 ##  硬件配置
 CPU ： Intel I5 5200U 2.2Ghz 2核<br>
 GPU ： Intel HD Graphics 5500 核显<br>
