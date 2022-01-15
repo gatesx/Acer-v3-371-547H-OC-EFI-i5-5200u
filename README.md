@@ -38,6 +38,9 @@ Main-F12 Boot menu to `Enabled`
 Detailed methods can be found on my blog.There are no advertisements on blogs at present.<br>
 https://blog.gatesx.cn/oc-ps2.html
 ### Black screen after running the code
+You can go to https://blog.gatesx.cn/macos-hidpi.html to learn about Hidpi and inject EEID to start hidpi.
+
+### Enter the system prompts abnormal shutdown
 
 At this time, MacOS has actually started. You need to close<br>
 

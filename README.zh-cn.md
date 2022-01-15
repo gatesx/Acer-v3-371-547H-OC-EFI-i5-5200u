@@ -41,7 +41,8 @@ Main-F12 Boot menu 推荐改为`Enabled`，便于修改引导项。
 https://blog.gatesx.cn/oc-ps2.html
 ### 跑完代码后黑屏
 此时其实MacOS已经启动了，你需要闭合屏幕再打开（不要闭合太久不然睡眠了），如果背光暗着就点下键盘。<br>
-解决方法我已经找到了（歪打正着），就是开启hidpi和注入eeid（我开启外置显示器时按错了结果解决了这个问题）
+解决方法我已经找到了（歪打正着），就是开启hidpi和注入eeid（我开启外置显示器时按错了结果解决了这个问题）<br>
+可以前往https://blog.gatesx.cn/macos-hidpi.html 了解Hidpi和注入EEID开启hidpi的方法。
 ### 进入系统提示异常关机
 
 这个问题暂时没有解决方案，没有影响系统，点击取消就行。<br>
