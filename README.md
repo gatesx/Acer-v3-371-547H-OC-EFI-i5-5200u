@@ -1,6 +1,6 @@
 # Acer-v3-371-547H
 English documents translated by Apple Translate.<br>
-本文档有中文版本（废话），请前往（https://github.com/gatesx/Acer-v3-371-547H-OC-EFI/blob/main/README.cn-zh.md)[https://github.com/gatesx/Acer-v3-371-547H-OC-EFI/blob/main/README.cn-zh.md]
+English | [简体中文](./README-zh_cn.md)
 ## Hardware configuration
 CPU: Intel I5 5200U 2.2Ghz 2-core<br>
 GPU: Intel HD Graphics 5500 Core Graphics<br>
@@ -16,8 +16,8 @@ GPU (1536M)<br>
 Trackpad and keyboard (there are intermittent unavailable on the OC boot page, which has little impact. If you need to operate, I will give the last solution)<br>
 The sound card ALC283 layout 11 can be driven, and there is noise in the 3.5mm headphone jack. Speakers and microphones are available. Let's see if 3.5mm noise can be solved in the future. ( Flag +)<br>
 USB 3.0 is available (USB2.0 is also available)<br>
-Available under the network card MacOS12, AirTransmission, Handoff, Shared Clipboard. ( Unable to test without an iPad) Airtransmission speed is about 20m/s.<br>
-BATTERY NUMBER OF CYCLES, PLUG-IN STATUS, POWER CAN BE USED (THERE MAY BE PROBLEMS WITH THE PLUG-IN POWER DETECTION, WHICH HAS NO IMPACT)<br>
+Available under the network card MacOS12, AirDrop, Handoff, Shared. ( Unable to test without an iPad) Airtransmission speed is about 20m/s.<br>
+Battery: number of battery cycles, plug-in status, power availability can use.(There may be problems with plug-in power detection, which has no impact.)<br>
 Camera available through Facetime test<br>
 Attachment: Fn key operation is available<br>
 ### Undrive hardware
@@ -27,7 +27,7 @@ There is something wrong with hibernation (screen saver is available, I put it f
 These solutions are only suitable for identical models.
 ### Pre-installation considerations
 1. Update the logic board Bios<br>
-(Https://www.acer.com/support.html? Type=1)[https://www.acer.com/support.html? Type=1] Download the latest version of Bios and update it.<br>
+(https://www.acer.com/ac/en/US/content/support-product/5487?b=1)Download the latest version of Bios and update it.<br>
 2. Modify logic board settings<br>
 ... Waiting for a supplement
 ### Page key mouse is not available when booting OC
