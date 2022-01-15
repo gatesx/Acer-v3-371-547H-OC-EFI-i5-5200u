@@ -1,6 +1,7 @@
 # Acer-v3-371-547H
 简体中文 | [English](./README.md)<br>
-英语文档使用Apple translate 翻译而成。
+英语文档使用Apple translate 翻译而成。<br>
+这份文档和EFI真的花了很多时间，我之所以花这么多时间去做一件几乎不可能有收益（当然最后我可能会放赞赏码，其实也不会有人给的），但是我真的对科技有很大的兴趣，我觉得能让更多的人共同感受到这种快乐，那其实就值得了。
 ##  硬件配置
 CPU ： Intel I5 5200U 2.2Ghz 2核<br>
 GPU ： Intel HD Graphics 5500 核显<br>
@@ -32,11 +33,16 @@ USB 3.0 可用（USB2.0也可用）<br>
 https://www.acer.com.cn/support.html?type=1 <br>
 下载最新版Bios并更新。<br>
 2.修改主板设置<br>
-...等待补充
+Boot-Boot Mode 改为 `UEFI`
+Boot-Secure Boot 改为 `Diskabled` （如果无法修改请先设置Bios密码）
+Main-F12 Boot menu 推荐改为`Enabled`，便于修改引导项。
 ### 引导OC时页面键鼠不可用
-方法正在编写，将发布于博客（既有流量【没有广告】又可以交流）
+详细方法可以去我的博客，博客目前没有广告。<br>
+https://blog.gatesx.cn/oc-ps2.html
 ### 跑完代码后黑屏
 此时其实MacOS已经启动了，你需要闭合屏幕再打开（不要闭合太久不然睡眠了），如果背光暗着就点下键盘。<br>
 解决方法我已经找到了（歪打正着），就是开启hidpi和注入eeid（我开启外置显示器时按错了结果解决了这个问题）
 ### 进入系统提示异常关机
 这个问题暂时没有解决方案，没有影响系统，点击取消就行。
+![Wechat](https://user-images.githubusercontent.com/84220224/149635235-3f295841-d2cf-4579-b2a7-00b5345ff77e.jpg)
+![Alipay](https://user-images.githubusercontent.com/84220224/149635237-1d548a3f-12c8-4c4b-81a8-08b455b9801f.jpg)

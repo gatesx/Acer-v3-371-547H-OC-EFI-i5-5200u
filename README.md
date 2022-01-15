@@ -1,6 +1,7 @@
 # Acer-v3-371-547H
 English | [简体中文](./README.zh-cn.md)<br>
-English documents translated by Apple Translate.
+English documents translated by Apple Translate.<br>
+This document and EFI really took a lot of time. It's almost impossible for me to spend so much time doing one (of course, I may put the appreciation code in the end, but no one will give it), but I really have a lot of interest in technology. I think it's actually worth it to let more people feel this happiness together.
 ## Hardware configuration
 CPU: Intel I5 5200U 2.2Ghz 2-core<br>
 GPU: Intel HD Graphics 5500 Core Graphics<br>
@@ -30,8 +31,13 @@ These solutions are only suitable for identical models.
 https://www.acer.com/ac/en/US/content/support-product/5487?b=1 <br>
 Download the latest version of Bios and update it.<br>
 2. Modify logic board settings<br>
-... Waiting for a supplement
+Boot-Boot Mode to `UEFI`
+Change Boot-Secure Boot to `Diskabled` (if you can't modify it, please set the Bios password first)
+Main-F12 Boot menu to `Enabled` 
 ### Page key mouse is not available when booting OC
-The method is being written and will be published on the blog (both traffic [no advertising] and communication)
+Detailed methods can be found on my blog.There are no advertisements on blogs at present.<br>
+https://blog.gatesx.cn/oc-ps2.html
 ### Black screen after running the code
 At this time, MacOS has actually started. You need to close
+![Wechat](https://user-images.githubusercontent.com/84220224/149635235-3f295841-d2cf-4579-b2a7-00b5345ff77e.jpg)
+![Alipay](https://user-images.githubusercontent.com/84220224/149635237-1d548a3f-12c8-4c4b-81a8-08b455b9801f.jpg)
