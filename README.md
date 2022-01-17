@@ -12,17 +12,17 @@ Wireless card (Bluetooth and WIFI): BCM943224PCIET2 (NGFF transfer card) (self-r
 ## Driver situation
 The driver is basically perfect (there is also a little defect and precautions during the installation process, which I tried and made mistakes step by step, and there is a model toss around together)
 ### Driven hardware
-CPU (transformable frequency)<br>
-GPU (1536M)<br>
+CPU (9-speed variable frequency or turbo frequency)<br>
+GPU (HD5500)<br>
 Trackpad and keyboard (there are intermittent unavailable on the OC boot page, which has little impact. If you need to operate, I will give the last solution)<br>
 The sound card ALC283 layout 11 can be driven, and there is noise in the 3.5mm headphone jack. Speakers and microphones are available. Let's see if 3.5mm noise can be solved in the future. ( Flag +)<br>
 USB 3.0 is available (USB2.0 is also available)<br>
 Available under the network card MacOS12, AirDrop, Handoff, Shared. ( Unable to test without an iPad) Airtransmission speed is about 20m/s.<br>
 Battery: number of battery cycles, plug-in status, power availability can use.(There may be problems with plug-in power detection, which has no impact.)<br>
 Camera available through Facetime test<br>
+Card reader: it has added  drivers , but there isn't card to test.
 Attachment: Fn key operation is available<br>
 ### Undrive hardware
-The card reader is to be tested (there is no demand for the time being, there is no toss around, and the speed is estimated to be not very good)<br>
 There is something wrong with hibernation (screen saver is available, I put it for 3 hours)
 ## Considerations
 These solutions are only suitable for identical models.
@@ -43,6 +43,10 @@ You can go to https://blog.gatesx.cn/macos-hidpi.html to learn about Hidpi and i
 ### Enter the system prompts abnormal shutdown
 
 At this time, MacOS has actually started. You need to close<br>
+
+## Update logs
+## 2022.1.17
+Add a card reader drivers , and the system information is already recognizavle , but there isn't card to test.
 
 ---
 ![Wechat](https://user-images.githubusercontent.com/84220224/149635235-3f295841-d2cf-4579-b2a7-00b5345ff77e.jpg)
