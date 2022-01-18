@@ -1,7 +1,6 @@
 # Acer-v3-371-547H
 English | [简体中文](./README.zh-cn.md)<br>
 English documents translated by Apple Translate.<br>
-This document and EFI really took a lot of time. It's almost impossible for me to spend so much time doing one (of course, I may put the appreciation code in the end, but no one will give it), but I really have a lot of interest in technology. I think it's actually worth it to let more people feel this happiness together.
 ## Hardware configuration
 CPU: Intel I5 5200U 2.2Ghz 2-core<br>
 GPU: Intel HD Graphics 5500 Core Graphics<br>
