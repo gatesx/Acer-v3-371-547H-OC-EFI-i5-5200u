@@ -45,7 +45,9 @@ You can go to https://blog.gatesx.cn/macos-hidpi.html to learn about Hidpi and i
 At this time, MacOS has actually started. You need to close<br>
 
 ## Update logs
-## 2022.1.17
+### 2022.1.18
+OpenCore version upgraded to 0.7.7
+### 2022.1.17
 Add a card reader drivers , and the system information is already recognizavle , but there isn't card to test.
 
 ---
