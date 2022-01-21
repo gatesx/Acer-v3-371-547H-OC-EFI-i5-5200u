@@ -37,11 +37,11 @@ Boot-Secure Boot 改为 `Diskabled` （如果无法修改请先设置Bios密码�
 Main-F12 Boot menu 推荐改为`Enabled`，便于修改引导项。
 ### 引导OC时页面键鼠不可用
 详细方法可以去我的博客，博客目前没有广告。<br>
-https://blog.gatesx.cn/oc-ps2.html
+~~https://blog.gatesx.cn/oc-ps2.html~~(网页维护中...)
 ### 跑完代码后黑屏
 此时其实MacOS已经启动了，你需要闭合屏幕再打开（不要闭合太久不然睡眠了），如果背光暗着就点下键盘。<br>
 解决方法我已经找到了（歪打正着），就是开启hidpi和注入eeid（我开启外置显示器时按错了结果解决了这个问题）。<br>
-可以前往https://blog.gatesx.cn/macos-hidpi.html 了解Hidpi和注入EEID开启hidpi的方法。
+可以前往~~https://blog.gatesx.cn/macos-hidpi.html ~~(网页维护中...)了解Hidpi和注入EEID开启hidpi的方法。
 ### 进入系统提示异常关机
 
 这个问题暂时没有解决方案，没有影响系统，点击取消就行。<br>
