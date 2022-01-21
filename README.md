@@ -54,6 +54,7 @@ Main-F12 Boot menu 推荐改为`Enabled`，便于修改引导项。
 OpenCore版本升级至 0.7.7
 ### 2022.1.17
 添加了读卡器驱动，系统信息面板信息可以读取，但没有CD卡来让我测试。
+
 ---
 ![Wechat](https://user-images.githubusercontent.com/84220224/149635235-3f295841-d2cf-4579-b2a7-00b5345ff77e.jpg)
 ![Alipay](https://user-images.githubusercontent.com/84220224/149635237-1d548a3f-12c8-4c4b-81a8-08b455b9801f.jpg)
