@@ -37,7 +37,7 @@ Change Boot-Secure Boot to `Diskabled` (if you can't modify it, please set the B
 Main-F12 Boot menu to `Enabled` 
 ### Page key mouse is not available when booting OC
 Detailed methods can be found on my blog.There are no advertisements on blogs at present.<br>
-~~https://blog.gatesx.cn/oc-ps2.html~~(The website is under maintenance...)
+~~https://blog.gatesx.cn/oc-ps2.html~~ (The website is under maintenance...)
 ### Black screen after running the code
 You can go to ~~https://blog.gatesx.cn/macos-hidpi.html~~ (The website is under maintenance...)to learn about Hidpi and inject EEID to start hidpi.
 
