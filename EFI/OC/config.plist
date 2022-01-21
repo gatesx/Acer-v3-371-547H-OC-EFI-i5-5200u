@@ -354,6 +354,24 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+				<string>USBPorts.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
 				<string>WhateverGreen.kext</string>
 				<key>Comment</key>
 				<string>WhateverGreen.kext</string>
@@ -1134,7 +1152,7 @@
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
-			<false/>
+			<true/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -1331,9 +1349,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02715501GUGDVVJA</string>
+			<string>C025396004NGDVVUE</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1542</integer>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -1343,9 +1361,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro12,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TK2YDH1DP</string>
+			<string>C02QG02LH1DP</string>
 			<key>SystemUUID</key>
-			<string>D7D0E5D7-1DAB-422E-AA7D-2883E77ACF65</string>
+			<string>4B825F16-3662-46F5-8B48-E96243E3556B</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
