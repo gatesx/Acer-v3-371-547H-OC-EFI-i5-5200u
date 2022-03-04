@@ -1,5 +1,4 @@
 # Acer-v3-371-547H-OC-EFI
-简体中文 | [English](./README-en.md)<br>
 ##  硬件配置
 详细配置请查看官网数据库：https://www.acer.com/datasheets/2014/4876/V3-371/NX.MPFCN.015.html<br>
 硬盘 ： 三星870evo 250GB <br>
